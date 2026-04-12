@@ -109,13 +109,7 @@ main.o: /home/zaid/Documents/devstuff/3ds-mess/bruh/source/main.c \
  /opt/devkitpro/libctru/include/c2d/spritesheet.h \
  /opt/devkitpro/libctru/include/c2d/sprite.h \
  /opt/devkitpro/libctru/include/c2d/text.h \
- /opt/devkitpro/libctru/include/c2d/font.h \
- /opt/devkitpro/portlibs/3ds/include/tremor/ivorbisfile.h \
- /opt/devkitpro/portlibs/3ds/include/tremor/ivorbiscodec.h \
- /opt/devkitpro/portlibs/3ds/include/ogg/ogg.h \
- /opt/devkitpro/portlibs/3ds/include/ogg/os_types.h \
- /opt/devkitpro/portlibs/3ds/include/ogg/config_types.h \
- /opt/devkitpro/portlibs/3ds/include/tremor/ivorbiscodec.h
+ /opt/devkitpro/libctru/include/c2d/font.h
 /opt/devkitpro/libctru/include/3ds.h:
 /opt/devkitpro/libctru/include/3ds/types.h:
 /opt/devkitpro/libctru/include/3ds/result.h:
@@ -227,9 +221,3 @@ main.o: /home/zaid/Documents/devstuff/3ds-mess/bruh/source/main.c \
 /opt/devkitpro/libctru/include/c2d/sprite.h:
 /opt/devkitpro/libctru/include/c2d/text.h:
 /opt/devkitpro/libctru/include/c2d/font.h:
-/opt/devkitpro/portlibs/3ds/include/tremor/ivorbisfile.h:
-/opt/devkitpro/portlibs/3ds/include/tremor/ivorbiscodec.h:
-/opt/devkitpro/portlibs/3ds/include/ogg/ogg.h:
-/opt/devkitpro/portlibs/3ds/include/ogg/os_types.h:
-/opt/devkitpro/portlibs/3ds/include/ogg/config_types.h:
-/opt/devkitpro/portlibs/3ds/include/tremor/ivorbiscodec.h:
